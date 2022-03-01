@@ -1,0 +1,40 @@
+.contact{
+    display: flex;
+    background-image: url("../assets/images/istockphoto-926814514-170667a.jpg");
+    width: 100%;
+    height: 90vh;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 40px 0px 40px;
+
+    font-family: sans-serif;
+    font-size: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.contact h2{
+    color:cornsilk
+}
+.contact a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+}
+.contact a:hover{
+    color:rgba(0, 0, 0, 0.507)
+}
+.contact button{
+    background-color: white;
+    height: 8%;
+    border-radius: 15%;
+    color: black;
+
+}
+.col2{
+    margin-top: -20%;
+}
+.col4{
+    margin-top: -20%;  
+}
